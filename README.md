@@ -19,6 +19,8 @@ import pyodbc
 ```
 ## Connection to DAtabase Setting
 ```
+cnxn = pyodbc.connect('driver=MySQL ODBC 8.0 Unicode Driver;server=< IP Address >;database=cafe;uid=<your id>;pwd=<your password>')
+
 ```
 
 Member  
