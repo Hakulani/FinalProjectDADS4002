@@ -5,10 +5,10 @@ DADS4002 Final Project
 Group:Coding
 
 Cafe_database managment
-#Insert 
-#Update  
-#Delete
-#Analytics 
+- Insert 
+- Update  
+- Delete
+- Analytics 
 
 
 
