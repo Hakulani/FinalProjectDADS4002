@@ -5,9 +5,11 @@ DADS4002 Final Project
 Group:Coding
 
 Cafe_database managment
-Insert/Update/Delete/and Analytics
-
+> Insert 
+> Update  
+> Delete
+> Analytics 
 Member
-Latthawan Chantharasukha 6420422015
-Witsarut Wongsim 6420422017
+Latthawan Chantharasukha 6420422015  
+Witsarut Wongsim 6420422017  
 Pajaya Kanjanakaew 6420422028
