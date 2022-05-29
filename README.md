@@ -4,7 +4,7 @@ FinalProjectDADS4002
 DADS4002 Final Project
 Group:Coding
 
-Cafe_database managment
+Cafe_database MySQL managment using python
 - Insert 
 - Update  
 - Delete
