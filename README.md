@@ -4,7 +4,8 @@ FinalProjectDADS4002
 DADS4002 Final Project
 Group:Coding
 
-Cafe_database
+Cafe_database managment
+Insert/Update/Delete/and Analytics
 
 Member
 Latthawan Chantharasukha 6420422015
