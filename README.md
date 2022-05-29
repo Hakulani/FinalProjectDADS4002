@@ -12,12 +12,14 @@ Cafe_database MySQL managment using python
 
 ![ERD](https://user-images.githubusercontent.com/61573397/170848613-42960a08-cf61-457b-b033-23d679790969.PNG)
 
-##Set up 
+## Set up 
 ```
 pip install pyodbc 
 import pyodbc
 ```
-
+## Connection to DAtabase Setting
+```
+```
 
 Member  
 Latthawan Chantharasukha 6420422015  
