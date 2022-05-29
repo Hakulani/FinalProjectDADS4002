@@ -9,6 +9,7 @@ Cafe_database MySQL managment using python
 - Update  
 - Delete
 - Analytics 
+![ERD](https://user-images.githubusercontent.com/61573397/170848613-42960a08-cf61-457b-b033-23d679790969.PNG)
 
 
 
