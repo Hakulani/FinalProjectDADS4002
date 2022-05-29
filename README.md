@@ -17,7 +17,7 @@ Cafe_database MySQL managment using python
 pip install pyodbc 
 import pyodbc
 ```
-## Connection to DAtabase Setting
+## Connection to database setting
 ```
 cnxn = pyodbc.connect('driver=MySQL ODBC 8.0 Unicode Driver;server=< IP Address >;database=cafe;uid=<your id>;pwd=<your password>')
 
