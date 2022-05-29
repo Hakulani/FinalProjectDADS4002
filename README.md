@@ -22,7 +22,7 @@ import pyodbc
 cnxn = pyodbc.connect('driver=MySQL ODBC 8.0 Unicode Driver;server=< IP Address >;database=cafe;uid=<your id>;pwd=<your password>')
 
 ```
-## MySQL Query Script in python
+## MySQL Command Script in python
 
 ```
 cursor = cnxn.cursor()
