@@ -22,6 +22,16 @@ import pyodbc
 cnxn = pyodbc.connect('driver=MySQL ODBC 8.0 Unicode Driver;server=< IP Address >;database=cafe;uid=<your id>;pwd=<your password>')
 
 ```
+## MySQL Query Script in python
+
+```
+cursor = cnxn.cursor()
+    cursor.execute("SELECT * FROM  <Table name>") 
+    row = cursor.fetchone() 
+    while row:
+        print (row) 
+        row = cursor.fetchone()
+```
 
 Member  
 Latthawan Chantharasukha 6420422015  
